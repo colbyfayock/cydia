@@ -283,3 +283,28 @@ h2 {
 .tw-tweet {
     @include inline-block;
 }
+
+h1 {
+    font-size: 2.4em;
+    margin-bottom: 1em;
+}
+
+.add-source {
+
+    color: $color-grey5;
+    font-weight: 400;
+
+    span {
+        @include inline-block;
+        font-size: .7em;
+        vertical-align: middle;
+        text-align: center;
+        line-height: 1em;
+        background-color: white;
+        padding: .5em;
+        border: none;
+        border-radius: .25em;
+        margin: 0 .5em;
+    }
+
+}
