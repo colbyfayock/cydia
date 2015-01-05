@@ -3,6 +3,6 @@
 rm Packages;
 rm Packages.bz2;
 
-dpkg-scanpackages -m debs / > Packages;
+dpkg-scanpackages debs / > Packages;
 
 bzip2 -fks Packages;
