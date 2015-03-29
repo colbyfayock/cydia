@@ -2,13 +2,13 @@ Package: io.fay.minimalios8.dev
 Name: minimal.iOS8.dev
 Author: Colby Fayock <cydia@fay.io>
 Homepage: http://colbyfayock.github.io/minimal.iOS.8
-Version: 1.7.6
+Version: 1.7.7
 Section: Themes (SpringBoard)
 Maintainer: Colby Fayock <cydia@fay.io>
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: debs//minimal.iOS.8.dev-1.7.6.deb
-Size: 8391202
-MD5sum: 7a82ba451094774c51a775d81003dc8b
+Filename: debs//minimal.iOS.8.dev-1.7.7.deb
+Size: 8916484
+MD5sum: fe486efc8ee51551cc89ef047f1593c9
 Description: Minimal winterboard theme
 
