@@ -16,13 +16,13 @@ Package: io.fay.minimalios9.dev
 Name: minimal.iOS9.dev
 Author: Colby Fayock <cydia@fay.io>
 Homepage: http://colbyfayock.github.io/minimal.iOS.9
-Version: 0.1.0
+Version: 0.1.1
 Section: Themes (SpringBoard)
 Maintainer: Colby Fayock <cydia@fay.io>
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: debs//minimal.iOS.9.dev-0.1.0.deb
-Size: 15164252
-MD5sum: 1d33021b35774d1559a7bc28b1eefa46
+Filename: debs//minimal.iOS.9.dev-0.1.1.deb
+Size: 15190082
+MD5sum: ead92e1c60d16c4f12025bde78ef242d
 Description: Minimal winterboard theme
 
